@@ -1,4 +1,4 @@
-![](https://github.com/INPUTBern/about/blob/main/logo.png)
+![](logo.png)
 
 # INPUT Research Meetings
 
