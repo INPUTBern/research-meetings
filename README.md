@@ -5,7 +5,7 @@
 ### Description
 The monthly research meetings are dedicated to a specific topic that concerns the application of statistics, data science, and computational science in medicine, epidemiology, or the natural sciences.
 
-## Participants
+### Participants
 The meeting is aimed at a core group of researchers from [ISPM](https://www.ispm.unibe.ch), [CSH](https://www.csh.unibe.ch), [ARTORG](https://www.artorg.unibe.ch), and [IMSV](https://www.imsv.unibe.ch). Researchers from other institutes and faculties are welcome to participate. Please contact christian.althaus@ispm.unibe.ch for further details.
 
 ### Schedule
