@@ -11,9 +11,9 @@ The meetings are aimed at a core group of researchers from [ISPM](https://www.is
 ### Schedule
 Date               | Time          |  Location      |  Topic                                                                 |  Presenter
 ------------------ | ------------- | -------------- | ---------------------------------------------------------------------- | --------------------------
-March 25, 2022     |  10:00-11:30  |  Online ([Zoom](https://unibe-ch.zoom.us/j/64534431723?pwd=UzgwSjVtcXRycDVocXdMdzhzR2RDdz09)) |  Application of time series methods in public health  |  Ana Vicedo-Cabrera (ISPM)
-February 18, 2022  |  10:00-11:30  |  Online (Zoom) |  [Inference methods using GPUs](slides/20220218_Grimm_Inference_Methods.pdf)  |  Simon Grimm (CSH/ISPM)
-January 21, 2022   |  10:00-11:30  |  Online (Zoom) |  [Utilizing electronic health records for epidemiological surveillance](slides/20220120_Althaus_Electronic_Health_Records.pdf)  |  Christian Althaus (ISPM)
+March 25, 2022     |  10:00-11:30  |  Online ([Zoom](https://unibe-ch.zoom.us/j/64534431723?pwd=UzgwSjVtcXRycDVocXdMdzhzR2RDdz09)) |  [Application of time series methods in public health](slides/20220325_VicedoCabrera_Time_Series.pdf)  |  [Ana Vicedo-Cabrera](https://www.ispm.unibe.ch/about_us/staff/vicedo_cabrera_ana_maria/index_eng.html) (ISPM)
+February 18, 2022  |  10:00-11:30  |  Online (Zoom) |  [Inference methods using GPUs](slides/20220218_Grimm_Inference_Methods.pdf)  |  [Simon Grimm](https://www.csh.unibe.ch/about_us/people/staff/dr_grimm_simon/index_eng.html) (CSH/ISPM)
+January 21, 2022   |  10:00-11:30  |  Online (Zoom) |  [Utilizing electronic health records for epidemiological surveillance](slides/20220120_Althaus_Electronic_Health_Records.pdf)  |  [Christian Althaus](https://www.ispm.unibe.ch/about_us/staff/althaus_christian/index_eng.html) (ISPM)
 
 ### Upcoming topics
 - Tipping points and early warnings signals (Christian Althaus, ISPM)
