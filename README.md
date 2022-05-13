@@ -11,7 +11,7 @@ The meetings are aimed at a core group of researchers from [ISPM](https://www.is
 ### Schedule
 Date               | Time          |  Location      |  Topic                                                                 |  Presenter
 ------------------ | ------------- | -------------- | ---------------------------------------------------------------------- | --------------------------
-July 15, 2022      |  10:00-11:30  |  Hybrid        |  Transformer for deep learning applications  |  Lewis Tunstall ([Hugging Face](https://huggingface.co))
+July 15, 2022      |  10:00-11:30  |  Hybrid        |  A Guided Tour Through the Transformers Landscape  |  Lewis Tunstall ([Hugging Face](https://huggingface.co))
 June 17, 2022      |  10:00-11:30  |  Hybrid        |  Data-Centric AI Tools  |  Kevin Schawinski ([Modulos](https://www.modulos.ai))
 May 20, 2022      |  10:00-11:30  |  Hybrid: Room 224, Mittelstrase 43 ([Zoom](https://unibe-ch.zoom.us/j/64199311055?pwd=WUJJMnE4cXpVSloxZi9NYkMvN2hwZz09))  |  A simple, interactive Gaussian process regression introduction in Python ([tutorial](https://github.com/bmorris3/gp_interact))  |  [Brett Morris](https://www.csh.unibe.ch/about_us/people/postdocs/dr_morris_brett/index_eng.html) (CSH)
 March 25, 2022     |  10:00-11:30  |  Online ([Zoom](https://unibe-ch.zoom.us/j/64534431723?pwd=UzgwSjVtcXRycDVocXdMdzhzR2RDdz09)) |  [Application of time series methods in public health](slides/20220325_VicedoCabrera_Time_Series.pdf)  |  [Ana Vicedo-Cabrera](https://www.ispm.unibe.ch/about_us/staff/vicedo_cabrera_ana_maria/index_eng.html) (ISPM)
