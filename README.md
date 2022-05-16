@@ -6,7 +6,7 @@
 The monthly research meetings are dedicated to a specific topic that concerns the application of statistics, data science, and computational science in medicine, epidemiology, or the natural sciences.
 
 ### Participants
-The meetings are aimed at a core group of researchers from [ISPM](https://www.ispm.unibe.ch), [CSH](https://www.csh.unibe.ch), [ARTORG](https://www.artorg.unibe.ch), and [IMSV](https://www.imsv.unibe.ch). INPUT Research Meetings are a satellite event of the Bern Data Science Initiative ([BeDSI](https://www.bedsi.unibe.ch)) and researchers from other institutes and faculties are welcome to participate. Please contact christian.althaus@ispm.unibe.ch for further details.
+The meetings are aimed at a core group of researchers from [ISPM](https://www.ispm.unibe.ch), [CSH](https://www.csh.unibe.ch), [ARTORG](https://www.artorg.unibe.ch), and [IMSV](https://www.imsv.unibe.ch). INPUT Research Meetings are a satellite event of the Bern Data Science Initiative ([BeDSI](https://www.bedsi.unibe.ch)) and researchers from other institutes and faculties are welcome to participate. Please contact christian.althaus@ispm.unibe.ch for further details or if you would like to be added to our mailing list.
 
 ### Schedule
 Date               | Time          |  Location      |  Topic                                                                 |  Presenter
