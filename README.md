@@ -11,7 +11,7 @@ The meetings are aimed at a core group of researchers from [ISPM](https://www.is
 ### Upcoming meetings
 Date               | Time          |  Location      |  Topic                                                                 |  Presenter
 ------------------ | ------------- | -------------- | ---------------------------------------------------------------------- | --------------------------
-September 16, 2022      |  10:00-11:30  |  Hybrid: 228, Mittelstrasse 43 ([Zoom](https://unibe-ch.zoom.us/j/65063546376?pwd=dnlqbm54MGFKZDg0TnhjTythUndrZz09))        |  Early Warning Signals in Epidemiological Data  |  [Judith Bouman](https://www.ispm.unibe.ch/about_us/staff/bouman_judith/index_eng.html) (ISPM)
+September 16, 2022      |  10:00-11:30  |  Hybrid: 228, Mittelstrasse 43 ([Zoom](https://unibe-ch.zoom.us/j/65063546376?pwd=dnlqbm54MGFKZDg0TnhjTythUndrZz09))        |  [Early Warning Signals in Epidemiological Data](slides/20220916_Bouman_Early_Warning_Signals.pdf)  |  [Judith Bouman](https://www.ispm.unibe.ch/about_us/staff/bouman_judith/index_eng.html) (ISPM)
 
 ### Past meetings
 Date               | Time          |  Location      |  Topic                                                                 |  Presenter
