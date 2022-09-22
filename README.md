@@ -12,6 +12,7 @@ The meetings are aimed at a core group of researchers from [ISPM](https://www.is
 Date               | Time          |  Location      |  Topic                                                                 |  Presenter
 ------------------ | ------------- | -------------- | ---------------------------------------------------------------------- | --------------------------
 October 28, 2022      |  10:00-11:30  |  Hybrid: Mittelstrasse 43 (Zoom)        |  TBA  |  [Yann Alibert](https://www.csh.unibe.ch/about_us/people/professors/prof_dr_alibert_yann/index_eng.html) (CSH)
+January 27, 2023      |  10:00-11:30  |  Hybrid: Mittelstrasse 43 (Zoom)        |  TBA  |  [David Ginsbourger](https://www.imsv.unibe.ch/about_us/staff/prof_dr_ginsbourger_david/index_eng.html) (IMSV) (tentatively)
 
 ### Past meetings
 Date               | Time          |  Location      |  Topic                                                                 |  Presenter
