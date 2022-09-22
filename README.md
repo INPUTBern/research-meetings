@@ -11,11 +11,12 @@ The meetings are aimed at a core group of researchers from [ISPM](https://www.is
 ### Upcoming meetings
 Date               | Time          |  Location      |  Topic                                                                 |  Presenter
 ------------------ | ------------- | -------------- | ---------------------------------------------------------------------- | --------------------------
-September 16, 2022      |  10:00-11:30  |  Hybrid: 228, Mittelstrasse 43 ([Zoom](https://unibe-ch.zoom.us/j/65063546376?pwd=dnlqbm54MGFKZDg0TnhjTythUndrZz09))        |  [Early Warning Signals in Epidemiological Data](slides/20220916_Bouman_Early_Warning_Signals.pdf)  |  [Judith Bouman](https://www.ispm.unibe.ch/about_us/staff/bouman_judith/index_eng.html) (ISPM)
+October 28, 2022      |  10:00-11:30  |  Hybrid: Mittelstrasse 43 (Zoom)        |  TBA  |  [Yann Alibert](https://www.csh.unibe.ch/about_us/people/professors/prof_dr_alibert_yann/index_eng.html) (CSH)
 
 ### Past meetings
 Date               | Time          |  Location      |  Topic                                                                 |  Presenter
 ------------------ | ------------- | -------------- | ---------------------------------------------------------------------- | --------------------------
+September 16, 2022      |  10:00-11:30  |  Hybrid: 228, Mittelstrasse 43 ([Zoom](https://unibe-ch.zoom.us/j/65063546376?pwd=dnlqbm54MGFKZDg0TnhjTythUndrZz09))        |  [Early Warning Signals in Epidemiological Data](slides/20220916_Bouman_Early_Warning_Signals.pdf)  |  [Judith Bouman](https://www.ispm.unibe.ch/about_us/staff/bouman_judith/index_eng.html) (ISPM)
 July 15, 2022      |  10:00-11:30  |  Hybrid: 320, Mittelstrasse 43 ([Zoom](https://unibe-ch.zoom.us/j/67673051507?pwd=WGpSMlRMK1hrSWRtYjhweWErWmJTQT09))        |  [A Guided Tour Through the Transformers Landscape](slides/20220715_Tunstall_Transformers_Tour.pdf)  |  Lewis Tunstall ([Hugging Face](https://huggingface.co))
 June 17, 2022      |  10:00-11:30  |  Hybrid: 320, Mittelstrasse 43 ([Zoom](https://unibe-ch.zoom.us/j/64696365529?pwd=VFZ1ODhtTVhvaEI4TW1tRmsrN1RNUT09))        |  [Data-Centric AI Tools](https://youtu.be/WFAUgeDa68Y)  |  Kevin Schawinski ([Modulos](https://www.modulos.ai))
 May 20, 2022      |  10:00-11:30  |  Hybrid: 224, Mittelstrasse 43 ([Zoom](https://unibe-ch.zoom.us/j/64199311055?pwd=WUJJMnE4cXpVSloxZi9NYkMvN2hwZz09))  |  [A simple, interactive Gaussian process regression introduction in Python](https://github.com/bmorris3/gp_interact)  |  [Brett Morris](https://www.csh.unibe.ch/about_us/people/postdocs/dr_morris_brett/index_eng.html) (CSH)
