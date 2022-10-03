@@ -11,9 +11,9 @@ The meetings are aimed at a core group of researchers from [ISPM](https://www.is
 ### Upcoming meetings
 Date               | Time          |  Location      |  Topic                                                                 |  Presenter
 ------------------ | ------------- | -------------- | ---------------------------------------------------------------------- | --------------------------
-October 28, 2022      |  10:00-11:30  |  Hybrid: Mittelstrasse 43 (Zoom)        |  TBA  |  [Prof. Dr. Yann Alibert](https://www.csh.unibe.ch/about_us/people/professors/prof_dr_alibert_yann/index_eng.html) (CSH)
-December 16, 2022      |  10:00-11:30  |  Hybrid: Mittelstrasse 43 (Zoom)        |  TBA  |  [Prof. Dr. Johanna Ziegel](https://www.imsv.unibe.ch/about_us/staff/prof_dr_ziegel_johanna/index_eng.html) (IMSV)
-January 27, 2023      |  10:00-11:30  |  Hybrid: Mittelstrasse 43 (Zoom)        |  TBA  |  [Prof. Dr. David Ginsbourger](https://www.imsv.unibe.ch/about_us/staff/prof_dr_ginsbourger_david/index_eng.html) (IMSV) (tentatively)
+October 28, 2022      |  10:00-11:30  |  Hybrid: 216, Mittelstrasse 43 (Zoom)        |  TBA  |  [Prof. Dr. Yann Alibert](https://www.csh.unibe.ch/about_us/people/professors/prof_dr_alibert_yann/index_eng.html) (CSH)
+December 16, 2022      |  10:00-11:30  |  Hybrid: 320, Mittelstrasse 43 (Zoom)        |  TBA  |  [Prof. Dr. Johanna Ziegel](https://www.imsv.unibe.ch/about_us/staff/prof_dr_ziegel_johanna/index_eng.html) (IMSV)
+January 27, 2023      |  10:00-11:30  |  Hybrid: 320, Mittelstrasse 43 (Zoom)        |  TBA  |  [Prof. Dr. David Ginsbourger](https://www.imsv.unibe.ch/about_us/staff/prof_dr_ginsbourger_david/index_eng.html) (IMSV) (tentatively)
 February, 2023      |  10:00-11:30  |  Hybrid: Mittelstrasse 43 (Zoom)        |  TBA  |  [Dr. David McLeod](https://www.thee.iee.unibe.ch/about_us/team/staff/dr_mcleod_david/index_eng.html) (IEE)
 
 ### Past meetings
