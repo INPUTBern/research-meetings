@@ -11,7 +11,7 @@ The meetings are aimed at a core group of researchers from [ISPM](https://www.is
 ### Upcoming meetings
 Date               | Time          |  Location      |  Topic                                                                 |  Presenter
 ------------------ | ------------- | -------------- | ---------------------------------------------------------------------- | --------------------------
-October 28, 2022      |  10:00-11:30  |  Hybrid: 216, Mittelstrasse 43 (Zoom)        |  The architecture of planetary systems: a machine learning approach  |  [Prof. Dr. Yann Alibert](https://www.csh.unibe.ch/about_us/people/professors/prof_dr_alibert_yann/index_eng.html) (CSH)
+October 28, 2022      |  10:00-11:30  |  Hybrid: 216, Mittelstrasse 43 ([Zoom](https://unibe-ch.zoom.us/j/62393450893?pwd=eEhTYjZFQXlHTGFGZWd6MzcyK0lHdz09))        |  The architecture of planetary systems: a machine learning approach  |  [Prof. Dr. Yann Alibert](https://www.csh.unibe.ch/about_us/people/professors/prof_dr_alibert_yann/index_eng.html) (CSH)
 November 25, 2022      |  10:00-11:30  |  Hybrid: 116, Mittelstrasse 43 (Zoom)        |  TBA  |  [Prof. Benjamin Stocker](https://www.geography.unibe.ch/about_us/personen/prof_dr_stocker_benjamin/index_eng.html) (GIUB)
 December 16, 2022      |  10:00-11:30  |  Hybrid: 320, Mittelstrasse 43 (Zoom)        |  Valid sequential inference on probability forecast performance  |  [Prof. Dr. Johanna Ziegel](https://www.imsv.unibe.ch/about_us/staff/prof_dr_ziegel_johanna/index_eng.html) (IMSV)
 January 27, 2023      |  10:00-11:30  |  Hybrid: 320, Mittelstrasse 43 (Zoom)        |  TBA  |  [Prof. Dr. David Ginsbourger](https://www.imsv.unibe.ch/about_us/staff/prof_dr_ginsbourger_david/index_eng.html) (IMSV)
