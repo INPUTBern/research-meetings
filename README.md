@@ -11,7 +11,7 @@ The meetings are aimed at a core group of researchers from [ISPM](https://www.is
 ### Upcoming meetings
 Date          | Time          |  Location     |  Topic                                                            |  Presenter
 ------------- | ------------- | ------------- | ----------------------------------------------------------------- | -------------
-December 16, 2022      |  10:00-11:30  |  Hybrid: 320, Mittelstrasse 43 (Zoom)        |  Valid sequential inference on probability forecast performance  |  [Prof. Dr. Johanna Ziegel](https://www.imsv.unibe.ch/about_us/staff/prof_dr_ziegel_johanna/index_eng.html) (IMSV)
+December 16, 2022      |  10:00-11:30  |  Hybrid: 320, Mittelstrasse 43 (https://unibe-ch.zoom.us/j/67688655333?pwd=enBzZ2FHSUxzcHZTVU5yUy9pckVUUT09)        |  Valid sequential inference on probability forecast performance  |  [Prof. Dr. Johanna Ziegel](https://www.imsv.unibe.ch/about_us/staff/prof_dr_ziegel_johanna/index_eng.html) (IMSV)
 January 27, 2023      |  10:00-11:30  |  Hybrid: 320, Mittelstrasse 43 (Zoom)        |  TBA  |  [Prof. Dr. David Ginsbourger](https://www.imsv.unibe.ch/about_us/staff/prof_dr_ginsbourger_david/index_eng.html) (IMSV)
 February, 2023      |  10:00-11:30  |  Hybrid: Mittelstrasse 43 (Zoom)        |  TBA  |  [Dr. David McLeod](https://www.thee.iee.unibe.ch/about_us/team/staff/dr_mcleod_david/index_eng.html) (IEE)
 
