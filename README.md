@@ -11,7 +11,7 @@ The meetings are aimed at a core group of researchers from [ISPM](https://www.is
 ### Upcoming meetings
 Date          | Time          |  Location     |  Topic                                                            |  Presenter
 ------------- | ------------- | ------------- | ----------------------------------------------------------------- | -------------
-February 03, 2023      |  10:00-11:30  |  Hybrid: 120, Mittelstrasse 43 (https://unibe-ch.zoom.us/j/66963306517?pwd=RGJURmhzUUQrUzF6UUZFUlR4WE40dz09)        |  Quantifying and reducing uncertainties on target parameter regions with Gaussian Process models   |  [Prof. Dr. David Ginsbourger](https://www.imsv.unibe.ch/about_us/staff/prof_dr_ginsbourger_david/index_eng.html) (IMSV)
+February 03, 2023      |  10:00-11:30  |  Hybrid: 120, Mittelstrasse 43 ([Zoom](https://unibe-ch.zoom.us/j/66963306517?pwd=RGJURmhzUUQrUzF6UUZFUlR4WE40dz09))        |  Quantifying and reducing uncertainties on target parameter regions with Gaussian Process models   |  [Prof. Dr. David Ginsbourger](https://www.imsv.unibe.ch/about_us/staff/prof_dr_ginsbourger_david/index_eng.html) (IMSV)
 February, 2023      |  10:00-11:30  |  Hybrid: Mittelstrasse 43 (Zoom)        |  TBA  |  [Dr. David McLeod](https://www.thee.iee.unibe.ch/about_us/team/staff/dr_mcleod_david/index_eng.html) (IEE)
 
 ### Past meetings
