@@ -11,12 +11,12 @@ The meetings are aimed at a core group of researchers from [ISPM](https://www.is
 ### Upcoming meetings
 Date          | Time          |  Location     |  Topic                                                            |  Presenter
 ------------- | ------------- | ------------- | ----------------------------------------------------------------- | -------------
-February 03, 2023      |  10:00-11:30  |  Hybrid: 120, Mittelstrasse 43 ([Zoom](https://unibe-ch.zoom.us/j/66963306517?pwd=RGJURmhzUUQrUzF6UUZFUlR4WE40dz09))        |  Quantifying and reducing uncertainties on target parameter regions with Gaussian Process models   |  [Prof. Dr. David Ginsbourger](https://www.imsv.unibe.ch/about_us/staff/prof_dr_ginsbourger_david/index_eng.html) (IMSV)
-February, 2023      |  10:00-11:30  |  Hybrid: Mittelstrasse 43 (Zoom)        |  TBA  |  [Dr. David McLeod](https://www.thee.iee.unibe.ch/about_us/team/staff/dr_mcleod_david/index_eng.html) (IEE)
+TBA      |  10:00-11:30  |  Hybrid: Mittelstrasse 43 (Zoom)        |  TBA  |  [Dr. David McLeod](https://www.thee.iee.unibe.ch/about_us/team/staff/dr_mcleod_david/index_eng.html) (IEE)
 
 ### Past meetings
 Date          | Time          |  Location     |  Topic                                                            |  Presenter
 ------------- | ------------- | ------------- | ----------------------------------------------------------------- | -------------
+February 03, 2023      |  10:00-11:30  |  Hybrid: 120, Mittelstrasse 43 (Zoom)        |  Quantifying and reducing uncertainties on target parameter regions with Gaussian Process models   |  [Prof. Dr. David Ginsbourger](https://www.imsv.unibe.ch/about_us/staff/prof_dr_ginsbourger_david/index_eng.html) (IMSV)
 December 16, 2022      |  10:00-11:30  |  Hybrid: 320, Mittelstrasse 43 (Zoom)        |  [Valid sequential inference on probability forecast performance](slides/20221216_Ziegel_Sequential_Inference.pdf)  |  [Prof. Dr. Johanna Ziegel](https://www.imsv.unibe.ch/about_us/staff/prof_dr_ziegel_johanna/index_eng.html) (IMSV)
 November 25, 2022      |  10:00-11:30  |  Hybrid: 116, Mittelstrasse 43 (Zoom)  |  [Learning from data to model the Earth system and predict climate impacts on the biosphere](slides/20221125_Stocker_ModelEarthSystems.pdf)  |  [Prof. Benjamin Stocker](https://www.geography.unibe.ch/about_us/personen/prof_dr_stocker_benjamin/index_eng.html) (GIUB)
 October 28, 2022      |  10:00-11:30  |  Hybrid: 216, Mittelstrasse 43 (Zoom)        |  [The architecture of planetary systems: a machine learning approach](slides/20221028_Alibert_Planetary_Systems.pdf)  |  [Prof. Dr. Yann Alibert](https://www.csh.unibe.ch/about_us/people/professors/prof_dr_alibert_yann/index_eng.html) (CSH)
