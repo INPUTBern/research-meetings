@@ -11,7 +11,7 @@ The meetings are aimed at a core group of researchers from [ISPM](https://www.is
 ### Upcoming meetings
 Date          | Time          |  Location     |  Topic                                                            |  Presenter
 ------------- | ------------- | ------------- | ----------------------------------------------------------------- | -------------
-TBA      |  10:00-11:30  |  Hybrid: Mittelstrasse 43 (Zoom)        |  TBA  |  [Dr. David McLeod](https://www.thee.iee.unibe.ch/about_us/team/staff/dr_mcleod_david/index_eng.html) (IEE)
+April 14, 2023      |  10:00-11:30  |  Hybrid: 320, Mittelstrasse 43 (Zoom)        |  TBA  |  [Dr. David McLeod](https://www.thee.iee.unibe.ch/about_us/team/staff/dr_mcleod_david/index_eng.html) (IEE)
 
 ### Past meetings
 Date          | Time          |  Location     |  Topic                                                            |  Presenter
