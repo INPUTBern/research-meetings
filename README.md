@@ -12,7 +12,7 @@ The meetings are aimed at a core group of researchers from [ISPM](https://www.is
 Date          | Time          |  Location     |  Topic                                                            |  Presenter
 ------------- | ------------- | ------------- | ----------------------------------------------------------------- | -------------
 April 14, 2023      |  10:00-11:30  |  Hybrid: 320, Mittelstrasse 43 (https://unibe-ch.zoom.us/j/63115521691?pwd=U2IwWFRBdnRzMW9RcWJHcmF5MWZ2UT09)        | Multilocus modelling approaches in evolutionary epidemiology  |  [Dr. David McLeod](https://www.thee.iee.unibe.ch/about_us/team/staff/dr_mcleod_david/index_eng.html) (IEE)
-June 09, 2023      |  10:00-11:30  |  Hybrid: 320, Mittelstrasse 43 (https://unibe-ch.zoom.us/j/69100478028?pwd=THBlWmdTa1ZkTU03RERHVUlyQkxJUT09)        | Non-Markovian modelling and COVID-19 epidemic  |  [Bastien Reyné, PhD student] (University of Montpellier, CNRS, IRD)
+June 09, 2023      |  10:00-11:30  |  Hybrid: 320, Mittelstrasse 43 (https://unibe-ch.zoom.us/j/69100478028?pwd=THBlWmdTa1ZkTU03RERHVUlyQkxJUT09)        | Non-Markovian modelling and COVID-19 epidemic  |  Bastien Reyné, PhD student | (University of Montpellier, CNRS, IRD)
 
 ### Past meetings
 Date          | Time          |  Location     |  Topic                                                            |  Presenter
