@@ -3,16 +3,21 @@
 # INPUT Research Meetings
 
 ### Description
+
 The monthly research meetings are dedicated to a specific topic that concerns the application of statistics, data science, and computational science in medicine, epidemiology, or the natural sciences.
 
 ### Participants
+
 The meetings are aimed at a core group of researchers from [ISPM](https://www.ispm.unibe.ch), [CSH](https://www.csh.unibe.ch), [ARTORG](https://www.artorg.unibe.ch), and [IMSV](https://www.imsv.unibe.ch). INPUT Research Meetings are a satellite event of the Bern Data Science Initiative ([BeDSI](https://www.bedsi.unibe.ch)) and researchers from other institutes and faculties are welcome to participate. Please contact christian.althaus@ispm.unibe.ch for further details or if you would like to be added to our mailing list.
 
 ### Upcoming meetings
+
 Date          | Time          |  Location     |  Topic                                                            |  Presenter
 ------------- | ------------- | ------------- | ----------------------------------------------------------------- | -------------
-June 09, 2023      |  10:00-11:30  |  Hybrid: 320, Mittelstrasse 43 (https://unibe-ch.zoom.us/j/69100478028?pwd=THBlWmdTa1ZkTU03RERHVUlyQkxJUT09)        | Non-Markovian modelling and COVID-19 epidemic  |  Bastien Reyné, PhD student, ETE modelling team (University of Montpellier, CNRS, IRD)  |
+June 09, 2023      |  10:00-11:30  |  Hybrid: 320, Mittelstrasse 43 [Zoom](https://unibe-ch.zoom.us/j/69100478028?pwd=THBlWmdTa1ZkTU03RERHVUlyQkxJUT09)        | Non-Markovian modelling and COVID-19 epidemic  |  Bastien Reyné (ETE modelling team, University of Montpellier, CNRS, IRD)  |
+
 ### Past meetings
+
 Date          | Time          |  Location     |  Topic                                                            |  Presenter
 ------------- | ------------- | ------------- | ----------------------------------------------------------------- | -------------
 April 14, 2023      |  10:00-11:30  |  Hybrid: 320, Mittelstrasse 43 (Zoom)        | Multilocus modelling approaches in evolutionary epidemiology  |  [Dr. David McLeod](https://www.thee.iee.unibe.ch/about_us/team/staff/dr_mcleod_david/index_eng.html) (IEE)
@@ -27,4 +32,3 @@ May 20, 2022      |  10:00-11:30  |  Hybrid: 224, Mittelstrasse 43 (Zoom)  |  [A
 March 25, 2022     |  10:00-11:30  |  Online (Zoom) |  [Application of time series methods in public health](slides/20220325_VicedoCabrera_Time_Series.pdf)  |  [Dr. Ana Vicedo-Cabrera](https://www.ispm.unibe.ch/about_us/staff/vicedo_cabrera_ana_maria/index_eng.html) (ISPM)
 February 18, 2022  |  10:00-11:30  |  Online (Zoom) |  [Inference methods using GPUs](slides/20220218_Grimm_Inference_Methods.pdf)  |  [Dr. Simon Grimm](https://www.csh.unibe.ch/about_us/people/staff/dr_grimm_simon/index_eng.html) (CSH/ISPM)
 January 21, 2022   |  10:00-11:30  |  Online (Zoom) |  [Utilizing electronic health records for epidemiological surveillance](slides/20220120_Althaus_Electronic_Health_Records.pdf)  |  [PD Dr. Christian Althaus](https://www.ispm.unibe.ch/about_us/staff/althaus_christian/index_eng.html) (ISPM)
-
