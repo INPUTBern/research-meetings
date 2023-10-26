@@ -14,7 +14,7 @@ The meetings are aimed at a core group of researchers from [ISPM](https://www.is
 
 Date          | Time          |  Location     |  Topic                                                            |  Presenter
 ------------- | ------------- | ------------- | ----------------------------------------------------------------- | -------------
-November 3, 2023      |  10:00-11:30  |  Hybrid: Mittelstrasse 43 (Zoom)        |  [Mathematical Modeling of the Spread of  Infectious Diseases in Humans and Animals]()  |  [Prof. Angel Manuel Ramos del Olmo](http://www.mat.ucm.es/~aramosol/) (Universidad Complutense de Madrid) | 
+November 3, 2023      |  10:00-11:30  |  Hybrid: Mittelstrasse 43 (https://unibe-ch.zoom.us/j/69169576700?pwd=eUlTTkd4SlJOR1pwOXQ4YVg4a3NWUT09) |  [Mathematical Modeling of the Spread of  Infectious Diseases in Humans and Animals]()  |  [Prof. Angel Manuel Ramos del Olmo](http://www.mat.ucm.es/~aramosol/) (Universidad Complutense de Madrid) | 
 
 ### Past meetings
 
