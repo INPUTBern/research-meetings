@@ -20,6 +20,7 @@ November 3, 2023      |  10:00-11:30  |  Hybrid: 324, Mittelstrasse 43 (https://
 
 Date          | Time          |  Location     |  Topic                                                            |  Presenter
 ------------- | ------------- | ------------- | ----------------------------------------------------------------- | -------------
+November 3, 2023      |  10:00-11:30  |  Hybrid: 324, Mittelstrasse 43 (Zoom) |  [Mathematical Modeling of the Spread of  Infectious Diseases in Humans and Animals]()  | Prof. Angel Manuel Ramos del Olmo](http://www.mat.ucm.es/~aramosol/) (Universidad Complutense de Madrid) | 
 June 9, 2023      |  10:00-11:30  |  Hybrid: 320, Mittelstrasse 43 (Zoom)        |  [Non-Markovian modelling and COVID-19 epidemic]()  |  Bastien Reyné (ETE modelling team, University of Montpellier, CNRS, IRD) | 
 April 14, 2023      |  10:00-11:30  |  Hybrid: 320, Mittelstrasse 43 (Zoom)        | Multilocus modelling approaches in evolutionary epidemiology  |  [Dr. David McLeod](https://www.thee.iee.unibe.ch/about_us/team/staff/dr_mcleod_david/index_eng.html) (IEE)
 February 3, 2023      |  10:00-11:30  |  Hybrid: 120, Mittelstrasse 43 (Zoom)        |  [Quantifying and reducing uncertainties on target parameter regions with Gaussian Process models](slides/20230203_Ginsbourger_GaussianProcessModels.pdf)  |  [Prof. Dr. David Ginsbourger](https://www.imsv.unibe.ch/about_us/staff/prof_dr_ginsbourger_david/index_eng.html) (IMSV)
