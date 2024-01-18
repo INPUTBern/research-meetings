@@ -14,7 +14,7 @@ The meetings are aimed at a core group of researchers from [ISPM](https://www.is
 
 Date          | Time          |  Location     |  Topic                                                            |  Presenter
 ------------- | ------------- | ------------- | ----------------------------------------------------------------- | -------------
-      |  10:00-11:30  |  Hybrid: , Mittelstrasse 43 () |  []()  |  [] () | 
+March 8, 2024      |  10:00-11:30  |  Hybrid: 216, Mittelstrasse 43 (Zoom) |  [Estimating Failure Probabilities: An Energy-Based Model Approach]()  |  [Dr. Lea Friedli ] (IMSV) | 
 
 ### Past meetings
 
