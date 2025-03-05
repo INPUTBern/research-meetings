@@ -12,16 +12,12 @@ The meetings are aimed at a core group of researchers from [ISPM](https://www.is
 
 ### Upcoming meetings
 
-Date          | Time          |  Location     |  Topic                                                            |  Presenter
-------------- | ------------- | ------------- | ----------------------------------------------------------------- | -------------
-TBD      |  10:00-11:30  | TBD  |  [Estimating Failure Probabilities: An Energy-Based Model Approach]()  |  [Dr. Lea Friedli] (IMSV) | 
-
 ### Past meetings
 
 Date          | Time          |  Location     |  Topic                                                            |  Presenter
 ------------- | ------------- | ------------- | ----------------------------------------------------------------- | -------------
-November 3, 2023      |  10:00-11:30  |  Hybrid: 324, Mittelstrasse 43 (Zoom) |  [Mathematical Modeling of the Spread of  Infectious Diseases in Humans and Animals]()  | Prof. Angel Manuel Ramos del Olmo] (Universidad Complutense de Madrid) | 
-June 9, 2023      |  10:00-11:30  |  Hybrid: 320, Mittelstrasse 43 (Zoom)        |  [Non-Markovian modelling and COVID-19 epidemic]()  |  Bastien Reyné (ETE modelling team, University of Montpellier, CNRS, IRD) | 
+November 3, 2023      |  10:00-11:30  |  Hybrid: 324, Mittelstrasse 43 (Zoom) |  Mathematical Modeling of the Spread of  Infectious Diseases in Humans and Animals  | [Prof. Dr. Ángel Manuel Ramos del Olmo](https://www.mat.ucm.es/~aramosol/) (Universidad Complutense de Madrid) | 
+June 9, 2023      |  10:00-11:30  |  Hybrid: 320, Mittelstrasse 43 (Zoom)        |  Non-Markovian modelling and COVID-19 epidemic  |  [Bastien Reyné](https://reyb.gitlab.io) (University of Montpellier) | 
 April 14, 2023      |  10:00-11:30  |  Hybrid: 320, Mittelstrasse 43 (Zoom)        | Multilocus modelling approaches in evolutionary epidemiology  |  [Dr. David McLeod](https://www.thee.iee.unibe.ch/about_us/team/staff/dr_mcleod_david/index_eng.html) (IEE)
 February 3, 2023      |  10:00-11:30  |  Hybrid: 120, Mittelstrasse 43 (Zoom)        |  [Quantifying and reducing uncertainties on target parameter regions with Gaussian Process models](slides/20230203_Ginsbourger_GaussianProcessModels.pdf)  |  [Prof. Dr. David Ginsbourger](https://www.imsv.unibe.ch/about_us/staff/prof_dr_ginsbourger_david/index_eng.html) (IMSV)
 December 16, 2022      |  10:00-11:30  |  Hybrid: 320, Mittelstrasse 43 (Zoom)        |  [Valid sequential inference on probability forecast performance](slides/20221216_Ziegel_Sequential_Inference.pdf)  |  [Prof. Dr. Johanna Ziegel](https://www.imsv.unibe.ch/about_us/staff/prof_dr_ziegel_johanna/index_eng.html) (IMSV)
