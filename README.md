@@ -10,8 +10,6 @@ The monthly research meetings were dedicated to a specific topic that concerns t
 
 The meetings were aimed at a core group of researchers from [ISPM](https://www.ispm.unibe.ch), [CSH](https://www.csh.unibe.ch), [ARTORG](https://www.artorg.unibe.ch), and [IMSV](https://www.imsv.unibe.ch). INPUT Research Meetings were a satellite event of the Bern Data Science Initiative ([BeDSI](https://www.bedsi.unibe.ch)) and researchers from other institutes and faculties were welcome to participate.
 
-### Upcoming meetings
-
 ### Past meetings
 
 Date          | Time          |  Location     |  Topic                                                            |  Presenter
